@@ -2,7 +2,7 @@
 
 Показывает ассисты в киллфиде
 
-
+<img width="291" height="274" alt="изображение" src="https://github.com/user-attachments/assets/e4868bab-68e5-44f6-b06d-6c42a1eb757b" />
 
 Требования:
 
